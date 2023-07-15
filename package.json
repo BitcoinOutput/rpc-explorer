@@ -29,7 +29,7 @@
   "homepage": "https://github.com/title-network/rpc-explorer#readme",
   "dependencies": {
     "bitcoin-core": "^2.0.0",
-    "bitcoinjs-lib": "^5.0.5",
+    "bitcoinjs-lib": "^5.2.0",
     "cookie-parser": "^1.4.4",
     "debug": "^4.1.1",
     "decimal.js": "^10.2.0",
